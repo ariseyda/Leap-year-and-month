@@ -1,0 +1,2 @@
+# Leap-year-and-month
+Write function described below.  A function receives year as an unsigned integer and returns 366 if it is a leap year, or 365 if it is not a leap year.  Another function receives month and year as an unsigned integers and returns day count in that month of that year.  The function should be able to handle February in leap years. Use the functions in a program that receives year and month from user and displays how many days are there in that month of the year. 
